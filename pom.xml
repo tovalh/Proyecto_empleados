@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.sistema</groupId>
-    <artifactId>proyecto_restaurante</artifactId>
+    <artifactId>proyecto_empleados</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging> <!-- Define que este es un proyecto padre -->
 
